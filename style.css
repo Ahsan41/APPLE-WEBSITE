@@ -1,0 +1,15 @@
+/* bootstrapp css */
+.navbar-expand-lg .navbar-collapse{
+    justify-content: center;
+}
+.nav-link{
+    margin: 0px 10px;
+    color: #fff;
+    font-size: 12px;
+}
+.navbar{
+ background-color: #000 !important;
+}
+.div1{
+ background-color: #000;
+}
